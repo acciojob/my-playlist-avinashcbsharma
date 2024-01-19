@@ -5,7 +5,7 @@ body {
         background-color: rgb(204, 204, 204);
         text-align: center;
       }
-ul {
+ul,a {
      list-style-type: none;
      text-decoration-line: none;
       }
@@ -25,6 +25,7 @@ ul {
         padding: 15px;
         width: fit-content;
       }
+.player_one{background-color:rgb(255, 255, 255);}
 .player_two{
 	width: 100%;
 }
